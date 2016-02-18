@@ -64,5 +64,6 @@ C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\bin\Microsoft.Ow
 C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\BANPB\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
